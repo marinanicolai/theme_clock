@@ -73,7 +73,7 @@ body {
 }
 
 .needle.hour {
-    transform: translate(-50%, -100%) rotate(0deg);
+    transform: translate(-50%, -100%) rotate(30deg);
 }
 
 
